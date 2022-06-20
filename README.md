@@ -1,5 +1,5 @@
-# Deploy
-https://ola-adeeko.github.io/monsters-rolodex/
+### Template UI
+You can see a hosted version of the template at https://ola-adeeko.github.io/monsters-rolodex/
 
 # Getting Started with Create React App
 
